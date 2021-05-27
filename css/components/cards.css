@@ -1,0 +1,28 @@
+.card-product img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  text-align: center
+  margin: 0 auto;
+  color:rgb(6, 65, 98);
+}
+
+.cards {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.recipe {
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: lighter;
+
+}
+
+.card-product {
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+
+}

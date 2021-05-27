@@ -1,0 +1,16 @@
+.footer {
+  background-color: rgb(6, 65, 98);
+  text-align: center;
+  padding:60px;
+}
+
+.footer h2 {
+  color:rgb(244, 232, 232);
+}
+.links a {
+  color:rgb(244, 232, 232);
+  font-size: 45px;
+  text-decoration: none;
+}
+
+

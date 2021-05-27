@@ -1,0 +1,23 @@
+.container-banner{
+  color: #ede0d4;
+  margin: 0 auto;
+}
+
+
+
+.container-banner p {
+    margin-bottom: 120px;
+
+}
+
+.text-align {
+  text-align: center;
+  color:rgb(6, 65, 98);
+  margin-top:45px;
+  margin-bottom: 45px;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
